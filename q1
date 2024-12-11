@@ -1,0 +1,13 @@
+Semana_sono = [
+    [S1], [Segunda-feira], [8], [Terça-feira], [6], [Quarta-feira], [7], [Quinta-feira], [8], [Sexta-feira], [6]
+    [S2], [Segunda-feira], [5], [Terça-feira], [5], [Quarta-feira], [6], [Quinta-feira], [7], [Sexta-feira], [8]
+    [S3], [Segunda-feira], [6], [Terça-feira], [7], [Quarta-feira], [8], [Quinta-feira], [6], [Sexta-feira], [5]
+    [S4], [Segunda-feira], [7], [Terça-feira], [5], [Quarta-feira], [9], [Quinta-feira], [7], [Sexta-feira], [4]
+
+]
+
+
+Print ("O dia da semana com maior descanso é:", (soma([S1], [S2], [S3], [S4])))
+
+
+
